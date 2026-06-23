@@ -1,16 +1,21 @@
-## Hi there 👋
+# Merhaba 👋
 
-<!--
-**bayunix01/bayunix01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ben [baylinux01].
 
-Here are some ideas to get you started:
+Github hesabımda aktif olarak repo oluşturmuyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ana Hesabım
+
+🔗 https://codeberg.org/baylinux01
+
+GitHub hesabımı ağırlıklı olarak:
+- Katkılar (pull request'ler)
+- Issue takibi
+- Ayna (mirror) depolar
+- Topluluk etkileşimleri
+
+için kullanıyorum.
+
+Codeberg hesabımda çalışmalarımı inceleyebilirsiniz.
+
+> Most of my active development happens on Codeberg.
