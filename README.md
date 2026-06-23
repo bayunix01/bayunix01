@@ -4,7 +4,7 @@ Ben [baylinux01].
 
 Github hesabımda aktif olarak repo oluşturmuyorum.
 
-## Ana Hesabım
+## Codeberg Hesabım
 
 🔗 https://codeberg.org/baylinux01
 
@@ -16,6 +16,6 @@ GitHub hesabımı ağırlıklı olarak:
 
 için kullanıyorum.
 
-Codeberg hesabımda çalışmalarımı inceleyebilirsiniz.
+Codeberg hesabımda üzerinden çalışmalarımı inceleyebilirsiniz.
 
 > Most of my active development happens on Codeberg.
