@@ -6,7 +6,7 @@ Github hesabımda aktif olarak repo oluşturmuyorum.
 
 Repolarımı Codeberg hesabımda oluşturuyor ve çalışmalarımı Codeberg hesabımda paylaşıyorum.
 
-## Codeberg Hesabım
+## Codeberg Hesabım Aşağıdadır
 
 🔗 https://codeberg.org/baylinux01
 
