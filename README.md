@@ -1,6 +1,6 @@
 # Merhaba 👋
 
-Ben [baylinux01].
+Ben baylinux01.
 
 Github hesabımda aktif olarak repo oluşturmuyorum.
 
