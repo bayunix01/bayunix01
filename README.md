@@ -3,6 +3,7 @@
 Ben baylinux01.
 
 Github hesabımda aktif olarak repo oluşturmuyorum.
+
 Repolarımı Codeberg hesabımda oluşturuyor ve çalışmalarımı Codeberg hesabımda paylaşıyorum.
 
 ## Codeberg Hesabım
