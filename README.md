@@ -20,4 +20,5 @@ için kullanıyorum.
 
 Codeberg hesabım üzerinden çalışmalarımı inceleyebilirsiniz.
 
-> Most of my active development happens on Codeberg.
+🔗 https://codeberg.org/baylinux01
+
