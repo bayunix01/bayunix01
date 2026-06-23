@@ -16,6 +16,6 @@ GitHub hesabımı ağırlıklı olarak:
 
 için kullanıyorum.
 
-Codeberg hesabımda üzerinden çalışmalarımı inceleyebilirsiniz.
+Codeberg hesabım üzerinden çalışmalarımı inceleyebilirsiniz.
 
 > Most of my active development happens on Codeberg.
